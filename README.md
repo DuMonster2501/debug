@@ -6,4 +6,10 @@
 </h1>
 <p align="center">Colocar a versão da sua base em "config.lua"</p>
 
+<img src="https://cdn.discordapp.com/attachments/996143159165853766/1148051111085883523/image.png" alt="config">
+
+<img src="https://cdn.discordapp.com/attachments/996143159165853766/1148051157311299725/image.png" alt="geral">
+
+<img src="https://cdn.discordapp.com/attachments/996143159165853766/1148051283404668998/image.png" alt="prop">
+
 <h1 align="center">Sistema de Depuração(Debug)</h1>
