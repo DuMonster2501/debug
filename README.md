@@ -4,7 +4,6 @@
 <h1 align="center">
     <a href="https://discord.gg/4t6MDfTuDh">🔗 Discord</a>
 </h1>
-<h1>Colocar a versão da sua base em "config.lua"</h1>
-<p align="center">Sistema de Depuração(Debug)</p>
+<p align="center">Colocar a versão da sua base em "config.lua"</p>
 
-<p align="center">Sistema de Depuração(Debug)</p>
+<h1 align="center">Sistema de Depuração(Debug)</h1>
