@@ -7,7 +7,7 @@ DuMonster = {}
 Tunnel.bindInterface("debug",DuMonster)
 Server = Tunnel.getInterface("debug")
 
-local toogle = true
+local toogle = false
 
 RegisterNetEvent("debug:toogle")
 AddEventHandler("debug:toogle",function()
@@ -20,11 +20,6 @@ AddEventHandler("debug:toogle",function()
         debugAdm()
         drawNotification("~r~DEPURAÇÃO Desligado.")
     end
-end)
-
-Citizen.CreateThread(function() 
-    Wait(1000)
-    debugAdm() 
 end)
 
 local R = 255
