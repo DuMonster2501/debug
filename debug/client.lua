@@ -89,7 +89,7 @@ debugAdm = function()
                     drawTxtS(0.03, 0.66, 0.0,0.0,0.0, "PLACA: ".. GetVehicleNumberPlateText(vehicle),R,G,B,A)
                     drawTxtS(0.03, 0.68, 0.0,0.0,0.0, "NET: ".. NetworkGetNetworkIdFromEntity(vehicle),R,G,B,A)
                     drawTxtS(0.03, 0.70, 0.0,0.0,0.0, "VELOCIDADE MÁXIMA: ".. ConvertMph(GetVehicleEstimatedMaxSpeed(vehicle)),R,G,B,A)
-                    drawTxtS(0.03, 0.72, 0.0,0.0,0.0, "VELOCIDADE : ".. ConvertMph(GetEntitySpeed(Ped)),R,G,B,A)
+                    drawTxtS(0.03, 0.72, 0.0,0.0,0.0, "VELOCIDADE: ".. ConvertMph(GetEntitySpeed(Ped)),R,G,B,A)
                 end
 
                 Object()
