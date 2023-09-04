@@ -18,7 +18,7 @@ AddEventHandler("debug:toogle",function()
     elseif toogle == true then 
         toogle = false 
         debugAdm()
-        drawNotification("~r~DEPURAÇÃO Desligado.")
+        drawNotification("~r~DEPURAÇÃO DESLIGADO.")
     end
 end)
 
