@@ -7,4 +7,4 @@
 <h1>Colocar a versão da sua base em "config.lua"</h1>
 <p align="center">Sistema de Depuração(Debug)</p>
 
-
+<p align="center">Sistema de Depuração(Debug)</p>
